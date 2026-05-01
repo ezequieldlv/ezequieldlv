@@ -1,28 +1,30 @@
-### Hi there, I'm Ezequiel! 👋
-#### Systems Engineering Student & Aspiring Site Reliability Engineer (SRE)
+Hi there, I'm Ezequiel! 👋
 
-I'm a Tier 2 Technical Support Analyst pivoting into Infrastructure and DevOps. Currently building my own **Home Lab** and mastering the art of keeping systems reliable.
+**Systems Engineering Student & Site Reliability Engineer (SRE) / DevSecOps**
 
-- 🔭 **I’m currently working on:** A distributed Logistics Microservices Platform.
-- 🌱 **I’m currently learning:** Docker, Kubernetes, and Advanced Linux Administration.
-- ⚡ **Fun fact:** I use Arch Linux as my daily driver (btw).
-- 🧠 **Philosophy:** "Lo que no estás cambiando, lo estás eligiendo."
+I build reliable, secure, and scalable infrastructure. Currently focused on automating cloud environments, ensuring zero-trust networking, and mastering the art of keeping systems resilient.
+
+* 🔭 **I'm currently working on:** `mysstic-cloud-iac` (Zero Trust AWS provisioning via Terraform).
+* 🌱 **I'm currently learning:** Cloud state management, S3, and advanced IaC architecture.
+* ⚡ **Fun fact:** I use Arch Linux as my daily driver (btw).
+* 🧠 **Philosophy:** "Lo que no estás cambiando, lo estás eligiendo."
 
 ---
 
 ### 🛠️ Tech Stack
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
-![Ezequiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezequieldlv&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezequieldlv&layout=compact&theme=tokyonight)
 
----
-*Let's build scalable and resilient systems together.* 🚀
+[![Ezequiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezequieldlv&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezequieldlv&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+*Let's build scalable and resilient systems together. 🚀*
