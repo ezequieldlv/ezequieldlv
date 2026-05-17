@@ -4,8 +4,8 @@ Hi there, I'm Ezequiel! 👋
 
 I build reliable, secure, and scalable infrastructure. Currently focused on automating cloud environments, ensuring zero-trust networking, and mastering the art of keeping systems resilient.
 
-* 🔭 **I'm currently working on:** `mysstic-cloud-iac` (Zero Trust AWS provisioning via Terraform).
-* 🌱 **I'm currently learning:** Cloud state management, S3, and advanced IaC architecture.
+* 🔭 **I'm currently working on:** `mysstic-cloud-iac` (Zero Trust AWS provisioning via Terraform) and Configuration Management with Ansible.
+* 🌱 **I'm currently learning:** Edge-to-Cloud Hybrid architectures and automated deployments.
 * ⚡ **Fun fact:** I use Arch Linux as my daily driver (btw).
 * 🧠 **Philosophy:** "Lo que no estás cambiando, lo estás eligiendo."
 
@@ -17,8 +17,9 @@ I build reliable, secure, and scalable infrastructure. Currently focused on auto
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ---
 
