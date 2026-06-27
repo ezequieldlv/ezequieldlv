@@ -30,7 +30,7 @@ I design, automate, and secure hybrid cloud-native infrastructure. My engineerin
 
 *   **[knowledge-base-system](https://github.com/ezequieldlv/knowledge-base-system)**
     *Internal Documentation Platform using Docs-as-Code.*
-    An automated system powered by MkDocs Material to migrate legacy knowledge structures into a markdown-based, git-versioned pipeline, dramatically optimizing technical troubleshooting search paths[cite: 2, 3].
+    An automated system powered by MkDocs Material to migrate legacy knowledge structures into a markdown-based, git-versioned pipeline, dramatically optimizing technical troubleshooting search paths.
 
 ---
 
