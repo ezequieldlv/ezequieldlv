@@ -8,7 +8,7 @@ I design, automate, and secure hybrid cloud-native infrastructure. My engineerin
 
 ### 🛡️ Core Infrastructure & Projects (The Prime Triad)
 
-*   **[mysstic-cloud-iac](https://github.com/ezequieldlv/mysstic-cloud-iac)**
+*   **[mysstic-cloud](https://github.com/ezequieldlv/mysstic-cloud-iac)**
     *Tier-3 Enterprise AWS Architecture via Terraform & Ansible.*
     Provisions a modular and isolated environment (Public DMZ + Isolated Private Subnets) using secure AWS OIDC federation. Integrates shift-left security (Trufflehog & Checkov) and state-locking via DynamoDB. Implements a serverless event-driven alerting architecture (CloudWatch Alarms ➡️ SNS ➡️ Python Lambda) pushing real-time infrastructure alerts directly to Telegram.
 
@@ -16,7 +16,7 @@ I design, automate, and secure hybrid cloud-native infrastructure. My engineerin
     *High-Performance Cloud-Native Portfolio & Live Telemetry API.*
     A production-ready monorepo combining a static frontend (Hugo running on version-pinned Alpine Nginx with strict security headers) and a backend application layer (Golang REST microservice exposing server metrics). Audited via DevSecOps pipelines with QEMU multi-architecture builds, Hadolint, and Trivy vulnerability scanning. Fully automated via GitOps pull-agents (Watchtower).
 
-*   **[ez-lab](https://github.com/ezequieldlv/ez-lab)**
+*   **[mysstic-edge](https://github.com/ezequieldlv/ez-lab)**
     *Cloud-Native Edge Infrastructure & Home Lab.*
     A bare-metal microservices environment running headless on a Raspberry Pi 5. Configured via modular Docker Compose (IaC basics) and protected under Zero-Trust principles bypassing ISP CGNAT via Cloudflare Tunnels and Tailscale Mesh VPN. Features deep observability and automated self-healing mechanisms driven by custom Python scripts, Prometheus, and Grafana.
 
